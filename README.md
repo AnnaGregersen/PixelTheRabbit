@@ -1,4 +1,2 @@
-Hello there
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixeltherabbit)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pixeltherabbit)](https://git.io/streak-stats)
+## Anna Gregersen
+Hi, I am Anna. I enjoy Offensive Cyber and Computer Science. Aside from that, in my free time, I play video games, watching movies and read comics. 
